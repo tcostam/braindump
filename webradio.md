@@ -11,3 +11,8 @@ Knowledge topics needed to setup a basic webradio
 
 Things needed
 - Good bandwidth
+
+Setup Steps:
+
+
+Running Steps:
